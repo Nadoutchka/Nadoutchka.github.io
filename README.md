@@ -1,2 +1,0 @@
-# Nadoutchka.github.io
-CV
