@@ -188,3 +188,8 @@
 #skill_bar {
   background-color: var(--darkblue);
 }
+
+#contact {
+  margin: 0;
+  max-width: none;
+}
